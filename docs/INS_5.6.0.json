@@ -3,51 +3,12 @@
     [
   {
     "id": "10023",
-    "issuetype": "Bug",
-    "reporter": "Monika",
+    "issuetype": "Task",
+    "reporter": "Gopal",
     "status": "Done",
-    "summary": "bug ;salfd asfsd flsn lx;dcfons lsdo fldjfms/dnalsmhfxd xomsridlfvjld ci",
+    "summary": "ksdksxdms",
     "releasedate": "2023-12-19",
-    "fixVersions": null
-  },
-  {
-    "id": "10020",
-    "issuetype": "Story",
-    "reporter": "Monika",
-    "status": "Done",
-    "summary": "test case",
-    "releasedate": "2023-12-19",
-    "fixVersions": "version1.1"
-  }
-  ,
-  {
-    "id": "10020",
-    "issuetype": "Story",
-    "reporter": "Monika",
-    "status": "Done",
-    "summary": "test case",
-    "releasedate": "2023-12-19",
-    "fixVersions": "version1.1"
-  }
-  ,
-  {
-    "id": "10020",
-    "issuetype": "Story",
-    "reporter": "Monika",
-    "status": "Done",
-    "summary": "test case",
-    "releasedate": "2023-12-19",
-    "fixVersions": "version1.1"
-  }
-  ,
-  {
-    "id": "10020",
-    "issuetype": "Story",
-    "reporter": "Monika",
-    "status": "Done",
-    "summary": "test case",
-    "releasedate": "2023-12-19",
-    "fixVersions": "version1.1"
+    "fixVersions": "5.6.1"
   }
 ]
   ]
